@@ -17,7 +17,8 @@ For this part of the lab, I used Git to access and modify my repository on GitHu
 
 1. Created a public GitHub repository with a `README.md` file.
 2. Cloned the repository to my local machine
-3. CD 
+3. CD into repo, create new branch, and checkout into that branch. I named mine `new-branch`.
+
 
 
 ## Part 3: ***Using Markdown***
