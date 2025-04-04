@@ -15,8 +15,8 @@ For this part of the lab, I used Git to access and modify my repository on GitHu
 
 ### Command Line Steps
 
-1. Created a public GitHub repository with a `README.md` file.
-2. **Cloned** the repository to my local machine
+1. Created a public GitHub repository with a `README.md` file. [Click for Github Repo here!](https://github.com/melissadelacruz/CSE-110-Spring-2025)
+2. **Cloned** the repository to my local machine with command: `git clone https://github.com/melissadelacruz/CSE-110-Spring-2025.git`
 3. **CD** into repo, create **new branch**, and **checkout** into that branch. I named mine `new-branch`.
 4. **Add** the new file to git
 5. **Commit** the files with the commit message "update readme file"
@@ -25,30 +25,48 @@ For this part of the lab, I used Git to access and modify my repository on GitHu
 Here are screenshots of each step performed in order:
 
 ![Cloning repository](lab1%20screenshots/cloning.png)
-*Cloning Repository*
+
 ![Changing directory](lab1%20screenshots/cd.png)
-*Changing Directory*
+
 ![Creating new branch](lab1%20screenshots/branch.png)
-*Creating new branch*
+
 ![Checkout new branch](lab1%20screenshots/checkout.png)
-*Checkout into new branch*
+
 ![add file to git](lab1%20screenshots/add_commit_push.png)
-*Add, commit, and push to git*
 
 
-
-
+### VSCode UI
+![show commit](lab1%20screenshots/commit.png)
+![show branch](lab1%20screenshots/show_branch.png)
 
 ## Part 3: ***Using Markdown***
 
+List of all Headers:
+
+[Part 1: Installing VS Code and Extensions](#part-1-installing-visual-studio-code-and-extensions)
+
+[Part 2: (Re)Familiarizing Ourselves with Git](#part-2-refamiliarizing-ourselves-with-git)
+
+[Part 2.1: Command Line Steps](#command-line-steps)
+
+[Part 2.2: VSCode UI](#vscode-ui)
+
+[Part 3: Using Markdown](#part-3-using-markdown)
+
+
+Relative Links:
+[View README file](README.md)
+
+
 Requirements: 
+- [x] Pictures
 - [x] Headings  
 - [x] Styling text  
 - [x] Quoting text  
-- [] Quoting code  
-- [] External Links (Link to another webpage)  
-- [] Section links (Link to a header in the same .md file)  
-- [] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)  
+- [x] Quoting code  
+- [x] External Links (Link to another webpage)  
+- [x] Section links (Link to a header in the same .md file)  
+- [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)  
 - [x] Ordered and Unordered Lists  
 - [x] Task lists  
 
