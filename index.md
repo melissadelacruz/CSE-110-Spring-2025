@@ -16,14 +16,30 @@ For this part of the lab, I used Git to access and modify my repository on GitHu
 ### Command Line Steps
 
 1. Created a public GitHub repository with a `README.md` file.
-2. Cloned the repository to my local machine
-3. CD into repo, create new branch, and checkout into that branch. I named mine `new-branch`.
+2. **Cloned** the repository to my local machine
+3. **CD** into repo, create **new branch**, and **checkout** into that branch. I named mine `new-branch`.
+4. **Add** the new file to git
+5. **Commit** the files with the commit message "update readme file"
+6. **Push** the commit to the remote branch
+
+Here are screenshots of each step performed in order:
+
+![Cloning repository](lab1%20screenshots/cloning.png)
+*Cloning Repository*
+![Changing directory](lab1%20screenshots/cd.png)
+*Changing Directory*
+![Creating new branch](lab1%20screenshots/branch.png)
+*Creating new branch*
+![Checkout new branch](lab1%20screenshots/checkout.png)
+*Checkout into new branch*
+![add file to git](lab1%20screenshots/add_commit_push.png)
+*Add, commit, and push to git*
+
+
 
 
 
 ## Part 3: ***Using Markdown***
-
-
 
 Requirements: 
 - [x] Headings  
