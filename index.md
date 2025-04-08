@@ -16,10 +16,15 @@ For this part of the lab, I used Git to access and modify my repository on GitHu
 ### Command Line Steps
 
 1. Created a public GitHub repository with a `README.md` file. [Click for Github Repo here!](https://github.com/melissadelacruz/CSE-110-Spring-2025)
+   
 2. **Cloned** the repository to my local machine with command: `git clone https://github.com/melissadelacruz/CSE-110-Spring-2025.git`
+   
 3. **CD** into repo, create **new branch**, and **checkout** into that branch. I named mine `new-branch`.
+   
 4. **Add** the new file to git
+   
 5. **Commit** the files with the commit message "update readme file"
+   
 6. **Push** the commit to the remote branch
 
 Here are screenshots of each step performed in order:
@@ -53,7 +58,14 @@ List of all Headers on this Page:
 
 [Part 3: Using Markdown](#part-3-using-markdown)
 
-``python def hello(): print("Hello, world!") ``
+```
+{
+  "firstName": "Melissa",
+  "lastName": "De La Cruz",
+  "age": 24
+}
+```
+
 
 My name is Melissa, and I am a second year transfer student at UCSD. I like to listen to music, try out new recipies and restaurants, and sunbathe on the beach on my freetime. 
 
