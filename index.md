@@ -1,4 +1,4 @@
-# CSE 110 Spring 2025 Lab 1
+# Lab 1
 
 ## Part 1: ***Installing Visual Studio Code and Extensions***
 
@@ -39,9 +39,9 @@ Here are screenshots of each step performed in order:
 ![show commit](lab1%20screenshots/commit.png)
 ![show branch](lab1%20screenshots/show_branch.png)
 
-## Part 3: ***Using Markdown***
+## Part 3: ***Using Markdown for Information about Me***
 
-List of all Headers:
+List of all Headers on this Page:
 
 [Part 1: Installing VS Code and Extensions](#part-1-installing-visual-studio-code-and-extensions)
 
@@ -53,12 +53,24 @@ List of all Headers:
 
 [Part 3: Using Markdown](#part-3-using-markdown)
 
+``python def hello(): print("Hello, world!") ``
 
-Relative Links:
+My name is Melissa, and I am a second year transfer student at UCSD. I like to listen to music, try out new recipies and restaurants, and sunbathe on the beach on my freetime. 
+
+
+
+
+### Relative Links:
 [View README file](README.md)
 
+My github is here:  
+[https://github.com/melissadelacruz](https://github.com/melissadelacruz)
 
-Requirements: 
+My Linkedin is here:
+[www.linkedin.com/in/melissadelacruz-](www.linkedin.com/in/melissadelacruz-)
+
+
+*Requirements for Markdown:*
 - [x] Pictures
 - [x] Headings  
 - [x] Styling text  
